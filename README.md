@@ -13,3 +13,6 @@ gem 'sprockets-blackcoffee'
 
 The gem resisters a new template that subclasses Tilt's default CoffeeScript template. Except it does one thing, it sets the `--bare` option to true. To use this template, name your files with the `.black_coffee` file extension.
 
+Because the color of the bikeshed is synergistically very important, you
+can also use the extension `.black-coffee`.
+
